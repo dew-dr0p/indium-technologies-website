@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
 
 *,
 *::before,
@@ -10,8 +10,8 @@
 
 body {
   min-height: 100vh;
-  color: var(--color-text);
-  background: var(--color-background);
+  color: #000;
+  background: #F5F5FA;
   transition: color 0.5s, background-color 0.5s;
   line-height: 1.6;
   font-family: 'Open Sans', sans-serif;
