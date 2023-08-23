@@ -38,7 +38,7 @@ import MainButton from '@/components/MainButton.vue';
       </div>
     </section>
 
-    <section>
+    <section class="grid lg:flex flex-row items-center lg:pt-20">
       <div class="bg-gradient-to-br from-[rgba(235,_63,_113,_0.40)] via-[rgba(29,_16,_68,_0.40)] via-[91%] to-[rgba(18,_14,_66,_0.40)] rounded-tl-[8.75rem] md:rounded-tl-[20rem] rounded-br-[8.75rem] md:rounded-br-[20rem] lg:max-w-[50%] lg:mx-0 mx-6 h-fit">
         <img src="../assets/images/section3.jpeg" alt="" class="rounded-tl-[8.75rem] md:rounded-tl-[20rem] rounded-br-[8.75rem] md:rounded-br-[20rem] opacity-60">
       </div>
